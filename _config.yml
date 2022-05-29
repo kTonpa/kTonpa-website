@@ -291,4 +291,4 @@ defaults:
 
 include: ["_pages"]
 
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
